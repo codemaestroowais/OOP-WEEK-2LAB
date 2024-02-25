@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\zaid\semester 2\PD\PD2\Calculator\Calculator\obj\Debug\Calculator.pdb

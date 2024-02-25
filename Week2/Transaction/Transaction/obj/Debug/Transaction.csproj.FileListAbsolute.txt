@@ -1,0 +1,7 @@
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\bin\Debug\Transaction.exe.config
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\bin\Debug\Transaction.exe
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\bin\Debug\Transaction.pdb
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\obj\Debug\Transaction.csproj.AssemblyReference.cache
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\obj\Debug\Transaction.csproj.CoreCompileInputs.cache
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\obj\Debug\Transaction.exe
+E:\zaid\semester 2\PD\PD2\Transaction\Transaction\obj\Debug\Transaction.pdb
